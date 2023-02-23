@@ -1,0 +1,4323 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kachelmodel",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/kachelmodel-65932/",
+        "invNr": "KFJM0899",
+        "material": "Keramik/Ton",
+        "technique": [
+          "gebrannt"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "Rechteckiger, irdener, unglasierter Kachelmodel mit der Hohlform des \"S. MATHEVS\" unter einem Rundbogen und über der Jahreszahl 1628; auf einer Seite befindet sich die Darstellung eines \"Verkündigungsengels\", auf der anderen Seite die Hl. Maria unter einem Baldachin vor einem Pult; darüber ist der Hl. Geist zwischen zwei sitzenden Putten dargestellt."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM0899.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "u3Kqaf-VLdODrYyOWG5eI",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kachelmodel",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/kachelmodel-65932/",
+        "invNr": "KFJM0899",
+        "material": "Keramik/Ton",
+        "technique": [
+          "gebrannt"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Raabs an der Thaya (Hafnerei Meier u. Söhne)",
+        "relation": "Herstellungsort"
+      },
+      "descriptions": [
+        {
+          "value": "Rechteckiger, irdener, unglasierter Kachelmodel mit der Hohlform des \"S. MATHEVS\" unter einem Rundbogen und über der Jahreszahl 1628; auf einer Seite befindet sich die Darstellung eines \"Verkündigungsengels\", auf der anderen Seite die Hl. Maria unter einem Baldachin vor einem Pult; darüber ist der Hl. Geist zwischen zwei sitzenden Putten dargestellt."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM0899.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "IIKWOuoH-HeRtXUVmncfB",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.49193270649047,
+          48.84872526158399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kachelmodel",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/kachelmodel-65932/",
+        "invNr": "KFJM0899",
+        "material": "Keramik/Ton",
+        "technique": [
+          "gebrannt"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Drosendorf (Sammlung Huber)",
+        "relation": "Fundort/Herkunft"
+      },
+      "descriptions": [
+        {
+          "value": "Rechteckiger, irdener, unglasierter Kachelmodel mit der Hohlform des \"S. MATHEVS\" unter einem Rundbogen und über der Jahreszahl 1628; auf einer Seite befindet sich die Darstellung eines \"Verkündigungsengels\", auf der anderen Seite die Hl. Maria unter einem Baldachin vor einem Pult; darüber ist der Hl. Geist zwischen zwei sitzenden Putten dargestellt."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM0899.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "rwQ65Ik_lRNwPwvPQxpZf",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.62135902543384,
+          48.86838148496686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kachelmodel",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/kachelmodel-65935/",
+        "invNr": "KFJM0902",
+        "material": "Keramik/Ton",
+        "technique": [
+          "gebrannt"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "Rechteckiger, irdener, unglasierter Kachelmodel mit der Hohlform der Darstellung von \"Christus am Ölberg\" mit zwei schlafenden Jüngern unter einem Rundbogen samt der Darstellung von zwei Cherubinen."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM0902.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "HOyRblZVKtV6rHgFIgA4p",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kachelmodel",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/kachelmodel-65935/",
+        "invNr": "KFJM0902",
+        "material": "Keramik/Ton",
+        "technique": [
+          "gebrannt"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Raabs an der Thaya (Hafnerei Meier u. Söhne)",
+        "relation": "Herstellungsort"
+      },
+      "descriptions": [
+        {
+          "value": "Rechteckiger, irdener, unglasierter Kachelmodel mit der Hohlform der Darstellung von \"Christus am Ölberg\" mit zwei schlafenden Jüngern unter einem Rundbogen samt der Darstellung von zwei Cherubinen."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM0902.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "ItZedIdEoD-EWNdZTIStO",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.49193270649047,
+          48.84872526158399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kachelmodel",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/kachelmodel-65935/",
+        "invNr": "KFJM0902",
+        "material": "Keramik/Ton",
+        "technique": [
+          "gebrannt"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Drosendorf (Sammlung Huber)",
+        "relation": "Fundort/Herkunft"
+      },
+      "descriptions": [
+        {
+          "value": "Rechteckiger, irdener, unglasierter Kachelmodel mit der Hohlform der Darstellung von \"Christus am Ölberg\" mit zwei schlafenden Jüngern unter einem Rundbogen samt der Darstellung von zwei Cherubinen."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM0902.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "kWUdPRN3U1S4FdL4nAleo",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.62135902543384,
+          48.86838148496686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68201/",
+        "invNr": "KFJM4268",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "rechteckige Negativform mit der Abbildung eines Kopfes in einem auf die Spitze gestellten Quadrat darunter Verbindung zu Rankenmustern;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4268.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "TlsKg8lpaoXprFbDbgt5a",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68201/",
+        "invNr": "KFJM4268",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Neunkirchen, (Hafner unbekannt)",
+        "relation": "Herstellungsort"
+      },
+      "descriptions": [
+        {
+          "value": "rechteckige Negativform mit der Abbildung eines Kopfes in einem auf die Spitze gestellten Quadrat darunter Verbindung zu Rankenmustern;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4268.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "G-e2yLjbCJIBdZkODpkZA",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.080988590755194,
+          47.726001150246475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68201/",
+        "invNr": "KFJM4268",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Neunkirchen, Hauptstraße 4",
+        "relation": "Fundort/Herkunft"
+      },
+      "descriptions": [
+        {
+          "value": "rechteckige Negativform mit der Abbildung eines Kopfes in einem auf die Spitze gestellten Quadrat darunter Verbindung zu Rankenmustern;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4268.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "sVUzANdyEEeFWH1cX_T7H",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.940976773859708,
+          47.6830184074709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68202/",
+        "invNr": "KFJM4269",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "unregelmäßig tropfenförmige Negativform mit der Abbildung eines Männergesichts mit herabhängendem Schnurrbart und geöffnetem Mund, das von Blatt- und Rankenmustern umgeben ist; "
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4269.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "fNOV3eEsZUzPEmq3gS_ky",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68202/",
+        "invNr": "KFJM4269",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Klein Pöchlarn (Hafnerei Erndt)",
+        "relation": "Herstellungsort"
+      },
+      "descriptions": [
+        {
+          "value": "unregelmäßig tropfenförmige Negativform mit der Abbildung eines Männergesichts mit herabhängendem Schnurrbart und geöffnetem Mund, das von Blatt- und Rankenmustern umgeben ist; "
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4269.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "_eiJQLs_2he9crhrhL88K",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.217735045666453,
+          48.22018126602972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68202/",
+        "invNr": "KFJM4269",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Neunkirchen, Hauptstraße 4",
+        "relation": "Fundort/Herkunft"
+      },
+      "descriptions": [
+        {
+          "value": "unregelmäßig tropfenförmige Negativform mit der Abbildung eines Männergesichts mit herabhängendem Schnurrbart und geöffnetem Mund, das von Blatt- und Rankenmustern umgeben ist; "
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4269.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "1vicUZ2xXLgkHy12lrTvh",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.940976773859708,
+          47.6830184074709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68203/",
+        "invNr": "KFJM4270",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "rundbogenförmige Negativform mit der Darstellung von Rocaille-Mustern und darüber 7 Blättern;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4270.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "SAqAdbzmhFNH-HOFhvJle",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68203/",
+        "invNr": "KFJM4270",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Neunkirchen, (Hafner unbekannt)",
+        "relation": "Herstellungsort"
+      },
+      "descriptions": [
+        {
+          "value": "rundbogenförmige Negativform mit der Darstellung von Rocaille-Mustern und darüber 7 Blättern;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4270.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "7jzNJFGZMSi9VtKYOqONL",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.080988590755194,
+          47.726001150246475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68203/",
+        "invNr": "KFJM4270",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Bad Vöslau (Verlassenschaft Müller)",
+        "relation": "Fundort/Herkunft"
+      },
+      "descriptions": [
+        {
+          "value": "rundbogenförmige Negativform mit der Darstellung von Rocaille-Mustern und darüber 7 Blättern;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4270.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "WZoUMGps36c4hSede0hS2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.210293340429626,
+          47.969053390080084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kachelmodel",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/kachelmodel-65943/",
+        "invNr": "KFJM0910",
+        "material": "Keramik/Ton",
+        "technique": [
+          "gebrannt"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "Quadratischer, irdener, unglasierter Hohlmodel mit geometrischem Muster (Quadrate mit Punkten)."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM0910.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "srRcT0QDtLa8x1_odmNAA",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kachelmodel",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/kachelmodel-65943/",
+        "invNr": "KFJM0910",
+        "material": "Keramik/Ton",
+        "technique": [
+          "gebrannt"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Raabs an der Thaya (Hafnerei Meier u. Söhne)",
+        "relation": "Herstellungsort"
+      },
+      "descriptions": [
+        {
+          "value": "Quadratischer, irdener, unglasierter Hohlmodel mit geometrischem Muster (Quadrate mit Punkten)."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM0910.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "UD_JkbtEt6KbDS1KG5iVb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.49193270649047,
+          48.84872526158399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kachelmodel",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/kachelmodel-65943/",
+        "invNr": "KFJM0910",
+        "material": "Keramik/Ton",
+        "technique": [
+          "gebrannt"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Neunkirchen, Hauptstraße 4",
+        "relation": "Fundort/Herkunft"
+      },
+      "descriptions": [
+        {
+          "value": "Quadratischer, irdener, unglasierter Hohlmodel mit geometrischem Muster (Quadrate mit Punkten)."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM0910.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "vMjZMmygEGi1ii47d11tA",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.940976773859708,
+          47.6830184074709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-67993/",
+        "invNr": "KFJM4051",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "Negativform mit rechteckiger Grundfläche und Rundbogenabschluss aus Gips für eine weibliche Gestalt mit erhobener Hand."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4051.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "Qq_kdgRGbwT2OEBlHFrWB",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-67994/",
+        "invNr": "KFJM4052",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "Annähernd quaderförmige Negativform aus Gips für eine langhaarige Frau im Kleid."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4052.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "zHNtQBB03UaX7iz7GhOwK",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-67995/",
+        "invNr": "KFJM4053",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "Negativform mit ovoidem Grundriss aus Gips für eine Blume."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4053.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "W01YJWrdaCouWqqtZOTp6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-67996/",
+        "invNr": "KFJM4054",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "Annähernd quaderförmige Negativform aus Gips mit der Darstellung eines Fabelwesens (die vordere Hälfte eines Pferdkörpers und der Schwanz eines Fisches)."
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4054.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "XZOkwPTZlfvnvrhIDZfnY",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68169/",
+        "invNr": "KFJM4236",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "runde Gipsmodel mit Blattrosette;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4236.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "O4Scx1QzhRlssVtTMvDvD",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68170/",
+        "invNr": "KFJM4237",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "runde Gipsmodel mit Darstellung eines Blumenkorbes;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4237.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "fLBYI831CeDtaBBNgw59F",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68171/",
+        "invNr": "KFJM4238",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "runde Gipsmodel mit Darstellung eines zapfenförmigen Gebildes mit zwei Flügeln;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4238.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "1i2-8auTOcLoCuYZ3AK13",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68172/",
+        "invNr": "KFJM4239",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "runde Gipsmodel mit Darstellung einer floralen Rosette"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4239.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "g8ARyS2_WdRWDwe1fRn6R",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68173/",
+        "invNr": "KFJM4240",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "runde Gipsmodel mit Darstellung eines Blumenbuketts;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4240.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "5pmXbCAGLtOQWTL7jEsdn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68174/",
+        "invNr": "KFJM4241",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "runde Gipsmodel mit Darstellung eines Blattkranzes"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4241.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "gLrzh8CJK03RwEEDXvLXA",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68175/",
+        "invNr": "KFJM4242",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "runde Gipsmodel mit Darstellung einer Blumenrosette"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4242.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "MfNiocpeVnhQs1_225A2p",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68176/",
+        "invNr": "KFJM4243",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "runde Gipsmodel mit Darstellung einer Blumenrosette"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4243.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "9t4zcECQXQliRaRswwr36",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68178/",
+        "invNr": "KFJM4245",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "rechteckige Gipsmodel mit Darstellung eines Gesichts;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4245.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "8WJZyzmZUFxoPPL_Xoo4e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68179/",
+        "invNr": "KFJM4246",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "rechteckige Gipsmodel mit Darstellung eines Gesichts;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4246.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "DbKsvlyeivN0Geadbcy6G",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68180/",
+        "invNr": "KFJM4247",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "rechteckige Gipsmodel mit Darstellung eines Gesichts"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4247.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "Pxd_CA_SCOVhaxTD_w_r8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68181/",
+        "invNr": "KFJM4248",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "rechteckige Gipsmodel mit Darstellung eines Gesichts"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4248.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "KfBVqNWTj4Qt1MbI_A_iU",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68182/",
+        "invNr": "KFJM4249",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "rechteckige Gipsmodel mit Darstellung eines Gesichts;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4249.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "w5Wr7Vqdmw1a1f9Md3DnG",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68183/",
+        "invNr": "KFJM4250",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "rechteckige Gipsmodel mit Darstellung eines Gesichts;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4250.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "FrYBV7fMH5mYyp16uyCi8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68184/",
+        "invNr": "KFJM4251",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "rechteckige Gipsmodel mit Darstellung eines Gesichts;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4251.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "822--owwlTWPuvuGZ9ZBW",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68185/",
+        "invNr": "KFJM4252",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "ovale Gipsmodel mit Darstellung eines Fatschenkindes (Kind in Wickelpolster);"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4252.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "NxJTwKkNDpBgtXnbfN3bF",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68186/",
+        "invNr": "KFJM4253",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "ovale Gipsmodel mit Darstellung einer Blattrosette;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4253.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "0m_bNFj5aFzeHoIuRr1_e",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68187/",
+        "invNr": "KFJM4254",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "ovale Gipsmodel mit Darstellung eines Vierblattes;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4254.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "RVFCrWPu2ZpAX1FCX-ob9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68188/",
+        "invNr": "KFJM4255",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "ovale Gipsmodel mit Darstellung eines Herzens umgeben von Ranken;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4255.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "8iDNlu-5CdTpQn7H58h7u",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68189/",
+        "invNr": "KFJM4256",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "ovale Gipsmodel mit Darstellung einer griechischen Frauengestalt mit Lyra;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4256.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "Sm35iIyqYUnzE6qtBCe6F",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68190/",
+        "invNr": "KFJM4257",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "ovale Gipsmodel mit Darstellung einer Blume;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4257.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "S0_E9o2ixYMEXBYi0jbGL",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68192/",
+        "invNr": "KFJM4259",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "rechteckige Negativform mit Kruzifixdarstellung und drei Eintiefungen zur Fixierung;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4259.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "H6Q-cQGHkRmSH1qI9dKNA",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68193/",
+        "invNr": "KFJM4260",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "rechteckige Negativform mit oben abgerundeten und unten abgeschrägten Ecken, mit Kruzifixdarstellung und drei Eintiefungen zur Fixierung;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4260.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "pR8N2Qlq9_gPOhyX96sgb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68198/",
+        "invNr": "KFJM4265",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "abgerundet rechteckige Negativform mit Strahlendarstellung;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4265.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "7UibUfgMRKwnnKMP_XXes",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68199/",
+        "invNr": "KFJM4266",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "trapezförmige Negativform mit floralen Mustern;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4266.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "Yp5sbEKe84d29ho8IZaTY",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68200/",
+        "invNr": "KFJM4267",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "rechteckige Negativform für zwei Arme mit drei Vertiefungen zur Fixierung;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4267.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "f6S5R2W_uHHx-FBR_RKrN",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68204/",
+        "invNr": "KFJM4271",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "rundbogenförmige Negativform mit der symmetrischen Abbildung von hängenden Blättern und Früchten;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4271.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "zE_xZgNC_FOmlrjTEt4vv",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68205/",
+        "invNr": "KFJM4272",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "spitzbogenförmige Negativform mit regelmäßiger Blattdarstellung;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4272.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "sZ5Wn5SV9xwlQ6JrqgNA2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68206/",
+        "invNr": "KFJM4273",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "rechtecikge Negativform mit einfachem Rankenmotiv, auf der Rückseite die eingeritzten Buchstaben \"J\" und \"G\", sowie die Datierung \"1871\" (?);"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4273.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "gPWG_DUyqq8EEcTiDcEh8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68207/",
+        "invNr": "KFJM4274",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "bogenförmige Negativform mit Rankenmotiven; auf der Rückseite die eingeritzten Buchstaben \"j.G.\", sowie \"N.37.\";"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4274.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "Zz3eed88gN9zm0gE4yDsP",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68209/",
+        "invNr": "KFJM4276",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "kleine, rechteckige Negativform mit bogenförmigem Blattmotiv;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4276.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "Rl-j2jzcdEdfAkFAPgYwP",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68210/",
+        "invNr": "KFJM4277",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "Teil einer rechteckigen Negativform mit stilisierten Efeublattmotiven;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4277.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "jMOUcrjRGRw1Gf_lzhwXU",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68211/",
+        "invNr": "KFJM4278",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "rechteckige Negativform mit 2 Längsrillen und 2 gegenüberliegenden, symmetrischen Blatt- und Fruchtmotiven;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4278.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "hrSZn9j8Fp8uuLGuEkhQF",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68212/",
+        "invNr": "KFJM4279",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "schmale, rechteckige Negativform mit Perlenbandmotiv;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4279.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "KZJw3Do7Q7MpWIU0aReVL",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kachelmodel",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/kachelmodel-68213/",
+        "invNr": "KFJM4280",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "quadratische Negativform (Kachelmodel?) mit Löwenkopfmotiv und gerilltem Rand;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4280.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "5tSxhT0oCDcLQylLvb38r",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68214/",
+        "invNr": "KFJM4281",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "rautenförmige Negativform mit floralem Motiv, seitlich eingeritzt \"II.\";"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4281.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "KcDL830zig69NjR5Uyrta",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68215/",
+        "invNr": "KFJM4282",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "rechteckige Negativform mit flachem Blattmotiv und abschließender, tiefer, herzförmiger Ausnehmung;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4282.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "w0lLHp-rYv8OaA5_oKTLb",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68216/",
+        "invNr": "KFJM4283",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "dreieckige Negativform mit bogenförmigem Blumenmotiv, das an den unteren Enden in Spiralen mündet;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4283.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "wMkydeJ_7M8kqZWDDV09-",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68217/",
+        "invNr": "KFJM4284",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "herzförmige Negativform mit Herzmotiv, durchkreuzt von Speer und Szepter(?);"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4284.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "MsxEJYTT2xQoQMB4DMeTn",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68218/",
+        "invNr": "KFJM4285",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "rechteckige Negativform mit reichhaltiger, zusammenhängender Musterung: Stern, zwei Räder, Herz - und Blattmotive;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4285.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "cOFtdnczbtQTRtwtsjGvs",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68219/",
+        "invNr": "KFJM4286",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "an den Ecken abgeflachte, rautenförmige Negativform mit dem Motiv eines in einer verzierten  Schale brennenden Feuers;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4286.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "qwRe24w-vh7uxggRsx8k7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68220/",
+        "invNr": "KFJM4287",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "quadratische Negativform mit gegenüberliegenden, symmetrischen Blattmotiven;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4287.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "yTMXivYiKvnwb_jYmVVIh",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68222/",
+        "invNr": "KFJM4289",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "quadratische Negativform mit Schleifenmotiv;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4289.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "adDiabaBFReUk_5LX5e2N",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68224/",
+        "invNr": "KFJM4291",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "quadtratische Negativform mit fein gemustertem Ringmotiv;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4291.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "uM2bEfnM7VOqI27Jyw40q",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68225/",
+        "invNr": "KFJM4292",
+        "material": "Gips;Keramik/Ton",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "rundbogenförmige Negativform aus Ton in Gipsmantel mit Darstellungen von 3 verschieden großen Blättern: zwei mit gezacktem und eines mit glattem Rand;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4292.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "L1k1XYw8Ng0mt83b1Q50p",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68228/",
+        "invNr": "KFJM4295",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "rechteckige Negativform mit feinen Blatt- und Fruchtmotiven;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4295.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "pcUSnO_vgdxzIfZgSUZWj",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68229/",
+        "invNr": "KFJM4296",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "sichelförmige Negativform mit feinen Rosenmotiven;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4296.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "LEcSAXuZeO3FDx4BtRLCC",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68230/",
+        "invNr": "KFJM4297",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "rundbogenförmige Negativform mit dem Motiv einer Frauengestalt mit erhobenem Arm und wallendem Gewand (tanzend);"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4297.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "wezr5o1hv3Cg8pp6oLpx3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68231/",
+        "invNr": "KFJM4298",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "sich nach oben verjüngende Negativform mit stark stilisiertem Marienmotiv (?) mit Feuerkrone;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4298.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "P2kxtIqCWsazL7FXGmsaD",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68232/",
+        "invNr": "KFJM4299",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "abgerundete Negativform mit großem Rocaille-Muster und einer Blume;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4299.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "RiQQVQFbx0aQGmJmjH5L3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68233/",
+        "invNr": "KFJM4300",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "rechteckige Negativform mit Pflanzenrankenmotiv auf Stab;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4300.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "wa1ldGCpIcqa_hyY4xpEI",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68234/",
+        "invNr": "KFJM4301",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "rundbogenförmige Negativform mit stilisierten Blütenranken;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4301.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "-5QNUGXrgFBt2KMi95_NL",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68235/",
+        "invNr": "KFJM4302",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "rechteckige Negativform mit einfacher Längsrille;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4302.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "6TLgWIe3VmB7dcx5ewFOJ",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68336/",
+        "invNr": "KFJM4303",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "große, annähernd rundbogenförmige Negativform mit der Darstellung einer weiblichen Gestalt (Venus?) und stehendem kleinem Amor (?) mit Pfeil und Bogen;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4303.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "7Ih8fM_LfTvCSNAW3mXXj",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68237/",
+        "invNr": "KFJM4304a-b",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "zweiteilige, rechteckige Negativform (Gußform) mit der Darstellung einer Männerfigur mit Leibrock; fußseitiges Eingußloch sowie Kerben und Zapfen zur Fixierung;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4304a-b.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "3REhwu6FLl7LA7Zlg8o4D",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68238/",
+        "invNr": "KFJM4305a-b",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "modelliert"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "zweiteilige, rechteckige Negativform (Gußform) mit der Darstellung einer Frauenfigur; fußseitiges Eingußloch sowie Kerben und Zapfen zur Fixierung;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4305a-b.jpg",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "QPzz23kcfT45S0EvRDWyx",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68250/",
+        "invNr": "KFJM4317",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "hausförmige Negativform mit doppeltem Blattmotiv; auf der Rückseite bogenförmige Rille;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4317a.JPG\nhttps://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4317b.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "BQE8KUNFRJymglT2-_Pay",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68286/",
+        "invNr": "KFJM4353",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "in einen Gipsquader ist eine Negativform aus einem härteren, grünlichen Material in Form einer Schale/Pokals eingegossen;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4353.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "wOFTsOy3LhJ9nhiLjNy_b",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68293/",
+        "invNr": "KFJM4360",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "runde Negativform für ein bärtiges Männergesicht;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4360.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "XzSSdstlGoukIGsihie54",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68294/",
+        "invNr": "KFJM4361",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "Negativform für vierfaches, verschlungenes Herz- und Lilienmuster;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4361.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "jqDtE-XG-IyVZGZyr_LxG",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68296/",
+        "invNr": "KFJM4363",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "spitzbogenförmige Negativform für ein Pokalmotiv mit drei Blättern;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4363.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "r5F6U7WoC8zQXqaznCK7k",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68297/",
+        "invNr": "KFJM4364",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "ovale Negativform für symmetrisches Motiv: durch eine, von Blättern unterbrochene Achse verbundene Blumenräder (Türklopfermotiv?); Einritzung auf der Rückseite: \"J.P. 1870\" und weiteres Kürzel;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4364.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "q1hHqpCJQDJ_U-Nuj4nDr",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68298/",
+        "invNr": "KFJM4365",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "längliche Negativform für einen Eichenzweig mit zwei Eicheln; auf der Seite eingeprägt: \"I\";"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4365.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "w7kVuXvkJvygvzGJbXVjW",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68299/",
+        "invNr": "KFJM4366",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "tropfenförmige Negativorm für ein feines Perlenleistenmotiv in Herzform mit Blatt- und Fruchtornamenten;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4366.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "2hITX8pYQFjSKYLmLxM5z",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68300/",
+        "invNr": "KFJM4367",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "rundlich dreieckige Negativorm mit Pflanzen- und Rankenmuster;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4367.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "Q4t5FwDqlsuqo6BzHSE8z",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68301/",
+        "invNr": "KFJM4368",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "spitzbogenförmige Negativorm für ein  Rankenmotiv mit aufgesetztem Blatt; auf der Rückseite eingeritzt: \"FK 1834\";"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4368.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "teHZ0qbozLzFZP9KiX2J1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68302/",
+        "invNr": "KFJM4369",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "tropfenförmige Negativorm für ein Rankenmotiv mit aufgesetztem Blatt;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4369.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "oB8V1qL0x-CQdG2sC7gaq",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68303/",
+        "invNr": "KFJM4370",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "mehrkantige Negativform mit Sternmotiv, darunter spiegelverkehrt eingeritzt \"FB\" und die Zahl \"15\";"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4370.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "tDKQnvMcjTBo1E-0RIeal",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kachelmodel",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/kachelmodel-68304/",
+        "invNr": "KFJM4371",
+        "material": "Keramik/Ton",
+        "technique": [
+          "gebrannt",
+          "gepresst"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "Model für eine quadratische Kachel mit symmetrischem, floralem Motiv;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4371.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "h9h2TTyPNEE--TSNGDyRi",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kachelmodel",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/kachelmodel-68305/",
+        "invNr": "KFJM4372",
+        "material": "Keramik/Ton",
+        "technique": [
+          "gebrannt",
+          "gepresst"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "Model für eine rechteckige Kachel: in einem Kreis befindet sich ein stilisiertes Blättermotiv, auf dessen rechter Seite sich ein Anschlußmotiv für die nächste Kachel befindet; auf der Rückseite folgende Einritzungen: \"FK 1811\";"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4372.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "0Gfn3DQMyXmcF-WzUh8aO",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kachelmodel",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/kachelmodel-68306/",
+        "invNr": "KFJM4373",
+        "material": "Keramik/Ton",
+        "technique": [
+          "gebrannt",
+          "gepresst"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "Model für einen kapitelförmigen Zierziegel mit stilisiertem Blattmotiv;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4373.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "MiHGFnoDZg4f05o5jX92K",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68310/",
+        "invNr": "KFJM4377",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "rundbogenförmige Negativform für ein symmetrisches Blattmotiv;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4377.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "8cbN5GHlqYtGlmPqLyHM7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68318/",
+        "invNr": "KFJM4385a-b",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "abgerundet rechteckige Negativform mit symmetrischem Ranken- und Schneckenmuster; vermutlich für Stuckarbeiten;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4385a-b.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "7Z7AU30ds9-0yNfYMFkFe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68319/",
+        "invNr": "KFJM4386",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "quaderförmige Negativform für ein Ziermusterband mit Dreiecksmotiven;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4386.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "xmb0VhKgn0X3IT1ejkVfe",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68322/",
+        "invNr": "KFJM4389",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "Fragment einer Negativform für ein Reliefbild mit floralen Elementen; auf diesem Teil befindet sich eine schneckenartig gebogene Ranke, die in einer Blüte endet;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4389.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "A5j3l69d2lDCr3tYMNJpj",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68325/",
+        "invNr": "KFJM4392",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "mehrkantige Negativform für ein Schalenmotiv mit Blumenschmuck; Eingußloch am oberen Ende;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4392.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "8Gk547lQ8nA-mywQlzNaZ",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68338/",
+        "invNr": "KFJM4405a-b",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "hausförmige Negativform für die Darstellung einer antik anmutenden, nackten Frauengestalt, die an einer Säule lehnt;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4405a-b.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "YfkPJDF6bW9YdYV30cKD6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68340/",
+        "invNr": "KFJM4407a-b",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "runde Negativform mit der Darstellung eines antik anmutenden Gesichtes mit aufgebundenem Kopftuch in einem Kreis;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4407a-b.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "hR6L6Z7PEkGjT32rbXEup",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68341/",
+        "invNr": "KFJM4408",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "sichelförmige Negativform für eine gebogene Weinranke (vermutlich für Stuckarbeiten);"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4408.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "tREVIMulfTzRX9BdZ0Ll3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68342/",
+        "invNr": "KFJM4409",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "spitzbogenförmige Negativform für ein stilisiertes, gewelltes Blattmotiv;"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4409.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "fMvB2xPRC8l-_2dZ68wr0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68343/",
+        "invNr": "KFJM4410",
+        "material": "Gips",
+        "technique": [
+          "gegossen"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "rechteckige Negativform für ein Perlenreihenmotiv (für Stuckarbeiten);"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4410.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "OR1w4kPtk6u468oniH6zZ",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Negativform",
+        "source": "https://www.noemuseen.at/objekt-detail/catalog/negativform-68653/",
+        "invNr": "KFJM4749",
+        "material": "Gips",
+        "technique": [
+          "gegossen",
+          "geritzt"
+        ],
+        "copyright": "Verein d. N.Ö. Landesfreunde",
+        "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung",
+        "institution": "Kaiser Franz Josef Museum Baden",
+        "collection": "Kaiser Franz Josef Museum Baden",
+        "owner": "Verein Niederösterreichische Landesfreunde",
+        "ccodes": [
+          "AT"
+        ],
+        "place": "Kaiser Franz Josef Museum Baden, Hochstraße 51, 2500 Baden",
+        "relation": "Standort"
+      },
+      "descriptions": [
+        {
+          "value": "dicke, annähernd quadratische Fußform aus Gips mit etwas abgesetztem Rahmen in den reliefartig die Gußvorlage eingearbeitet ist; Darstellung eines Frauenkopfes im Profil mit Haube in Medaillonform, darum symmetrisch angeordnete florale Zierelemente (Lilien?); seitlich eingeritzt \"17\";"
+        }
+      ],
+      "depictions": [
+        {
+          "@id": "https://media.noemuseen.at/imdas/Bilder/digs505n/noemuseen/0272/KFJM4749.JPG",
+          "license": "CC BY-ND 4.0 - Namensnennung-Keine Bearbeitung"
+        }
+      ],
+      "@id": "O4SWQzPks4nP1dKzxo9I0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.223231869592098,
+          48.01678430584796
+        ]
+      }
+    }
+  ]
+}
