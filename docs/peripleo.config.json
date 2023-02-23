@@ -10,7 +10,9 @@
     }
   ],
   "facets": [
-    "type"
+    { "name": "Technique", "path": [ "properties", "technique" ] },
+    { "name": "Place Type", "path": [ "properties", "relation" ] },
+    { "name": "Material", "path": [ "properties", "material" ] }
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
